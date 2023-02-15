@@ -462,7 +462,7 @@ We could add either of these lines to any file below `R/` to eliminate this note
 [^package-within-4]: For more details, see the [Programming with dplyr vignette](https://dplyr.tidyverse.org/articles/programming.html#eliminating-r-cmd-check-notes).
 
 ```{r, eval = FALSE}
-# option 1 (then you should also put utils in Imports)
+# option 1 (then you should also put utils in the Imports section of DESCRIPTION)
 utils::globalVariables(c("english", "temp"))
 
 # option 2
