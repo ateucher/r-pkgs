@@ -2,110 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://r-pkgs.org/index.html</loc>
-    <lastmod>2023-03-03T07:31:26.697Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.222Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/preface.html</loc>
-    <lastmod>2023-03-03T07:31:26.701Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.222Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/introduction.html</loc>
-    <lastmod>2023-03-03T07:31:26.701Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.222Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/whole-game.html</loc>
-    <lastmod>2023-03-03T07:31:26.709Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.226Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/setup.html</loc>
-    <lastmod>2023-03-03T07:31:26.709Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.230Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/structure.html</loc>
-    <lastmod>2023-03-03T07:31:26.713Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.230Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/workflow101.html</loc>
-    <lastmod>2023-03-03T07:31:26.717Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.234Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/package-within.html</loc>
-    <lastmod>2023-03-03T07:31:26.725Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.238Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/code.html</loc>
-    <lastmod>2023-03-03T07:31:26.729Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.242Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/data.html</loc>
-    <lastmod>2023-03-03T07:31:26.733Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.246Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/misc.html</loc>
-    <lastmod>2023-03-03T07:31:26.737Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.250Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/description.html</loc>
-    <lastmod>2023-03-03T07:31:26.741Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.250Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/dependencies-mindset-background.html</loc>
-    <lastmod>2023-03-03T07:31:26.745Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.254Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/dependencies-in-practice.html</loc>
-    <lastmod>2023-03-03T07:31:26.749Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.258Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/license.html</loc>
-    <lastmod>2023-03-03T07:31:26.749Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.258Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/testing-basics.html</loc>
-    <lastmod>2023-03-03T07:31:26.757Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.262Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/testing-design.html</loc>
-    <lastmod>2023-03-03T07:31:26.761Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.266Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/testing-advanced.html</loc>
-    <lastmod>2023-03-03T07:31:26.765Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.270Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/man.html</loc>
-    <lastmod>2023-03-03T07:31:26.769Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.274Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/vignettes.html</loc>
-    <lastmod>2023-03-03T07:31:26.773Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.274Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/other-markdown.html</loc>
-    <lastmod>2023-03-03T07:31:26.777Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.278Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/website.html</loc>
-    <lastmod>2023-03-03T07:31:26.781Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.278Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/software-development-practices.html</loc>
-    <lastmod>2023-03-03T07:31:26.781Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.278Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/lifecycle.html</loc>
-    <lastmod>2023-03-03T07:31:26.785Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.282Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/release.html</loc>
-    <lastmod>2023-03-03T07:31:26.789Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.286Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/references.html</loc>
-    <lastmod>2023-03-03T07:31:26.789Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.286Z</lastmod>
   </url>
   <url>
     <loc>https://r-pkgs.org/R-CMD-check.html</loc>
-    <lastmod>2023-03-03T07:31:26.793Z</lastmod>
+    <lastmod>2023-03-04T07:26:01.290Z</lastmod>
   </url>
 </urlset>
