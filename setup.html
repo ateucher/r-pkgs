@@ -462,10 +462,14 @@ Warning
 <span>  <span class="op">)</span></span>
 <span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<p>The following code installs the development versions of devtools and usethis, which may be important during the revision of the book.</p>
+<p>The following code shows how to install the development versions of devtools and usethis. At times, this book may describe new features that are in the development version of devtools and related packages, but that haven’t been released yet.</p>
 <div class="cell">
 <div class="sourceCode" id="cb5"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="fu">devtools</span><span class="fu">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span><span class="op">(</span><span class="st">"r-lib/devtools"</span><span class="op">)</span></span>
-<span><span class="fu">devtools</span><span class="fu">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span><span class="op">(</span><span class="st">"r-lib/usethis"</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span><span class="fu">devtools</span><span class="fu">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html">install_github</a></span><span class="op">(</span><span class="st">"r-lib/usethis"</span><span class="op">)</span></span>
+<span></span>
+<span><span class="co"># or, alternatively</span></span>
+<span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="http://pak.r-lib.org/reference/pak.html">pak</a></span><span class="op">(</span><span class="st">"r-lib/devtools"</span><span class="op">)</span></span>
+<span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="http://pak.r-lib.org/reference/pak.html">pak</a></span><span class="op">(</span><span class="st">"r-lib/usethis"</span><span class="op">)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section></section><section id="setup-tools" class="level2" data-number="3.3"><h2 data-number="3.3" class="anchored" data-anchor-id="setup-tools">
 <span class="header-section-number">3.3</span> R build toolchain</h2>
@@ -517,7 +521,7 @@ Warning
 </section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><hr>
 <ol>
 <li id="fn1"><p>At the time of writing, devtools exposes functionality from <a href="https://remotes.r-lib.org/">remotes</a>, <a href="https://pkgbuild.r-lib.org/">pkgbuild</a>, <a href="https://pkgload.r-lib.org/">pkgload</a>, <a href="https://rcmdcheck.r-lib.org/">rcmdcheck</a>, <a href="https://revdepcheck.r-lib.org/">revdepcheck</a>, <a href="https://sessioninfo.r-lib.org/">sessioninfo</a>, <a href="https://usethis.r-lib.org/">usethis</a>, <a href="https://testthat.r-lib.org">testthat</a>, and <a href="https://roxygen2.r-lib.org">roxygen2</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p>This is one of the few cases we recommend using <code><a href="https://rdrr.io/r/base/library.html">require()</a></code> over <code>library().</code> <code><a href="https://rdrr.io/r/base/library.html">library()</a></code> will fail with an error if it is unable to attach the package, and thus abort the execution of your <code>.Rprofile</code>. If <code><a href="https://rdrr.io/r/base/library.html">require()</a></code> fails to attach the package it will emit a warning but will allow the the remainder of your <code>.Rprofile</code> to execute. This is discussed further in <a href="dependencies-mindset-background.html#sec-dependencies-attach-vs-load"><span>Section&nbsp;11.5</span></a>.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>This is one of the few cases we recommend using <code><a href="https://rdrr.io/r/base/library.html">require()</a></code> over <code>library().</code> <code><a href="https://rdrr.io/r/base/library.html">library()</a></code> will fail with an error if it is unable to attach the package, and thus abort the execution of your <code>.Rprofile</code>. If <code><a href="https://rdrr.io/r/base/library.html">require()</a></code> fails to attach the package it will emit a warning but will allow the the remainder of your <code>.Rprofile</code> to execute. This is discussed further in <a href="dependencies-mindset-background.html#sec-dependencies-attach-vs-load"><span>Section&nbsp;11.4</span></a>.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol></section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
