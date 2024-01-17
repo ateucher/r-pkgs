@@ -127,7 +127,7 @@ tools::package_dependencies(c("rlang", "cli", "glue", "withr", "lifecycle"))
 #> [1] "methods"
 #> 
 #> $withr
-#> [1] "graphics"  "grDevices" "stats"    
+#> [1] "graphics"  "grDevices"
 #> 
 #> $lifecycle
 #> [1] "cli"   "glue"  "rlang"
@@ -211,7 +211,7 @@ sd
 #> function (x, na.rm = FALSE) 
 #> sqrt(var(if (is.vector(x) || is.factor(x)) x else as.double(x), 
 #>     na.rm = na.rm))
-#> <bytecode: 0x564a7b166510>
+#> <bytecode: 0x5649b5ede370>
 #> <environment: namespace:stats>
 ----
 
